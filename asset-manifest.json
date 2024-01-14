@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/first-react-app/static/css/main.15b00b43.css",
+    "main.js": "/first-react-app/static/js/main.13c0f0bd.js",
+    "static/js/787.f5e007ae.chunk.js": "/first-react-app/static/js/787.f5e007ae.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/first-react-app/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/first-react-app/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/first-react-app/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/first-react-app/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/first-react-app/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/first-react-app/index.html",
+    "main.15b00b43.css.map": "/first-react-app/static/css/main.15b00b43.css.map",
+    "main.13c0f0bd.js.map": "/first-react-app/static/js/main.13c0f0bd.js.map",
+    "787.f5e007ae.chunk.js.map": "/first-react-app/static/js/787.f5e007ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15b00b43.css",
+    "static/js/main.13c0f0bd.js"
+  ]
+}
